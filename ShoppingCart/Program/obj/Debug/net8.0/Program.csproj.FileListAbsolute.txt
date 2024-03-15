@@ -1,0 +1,4 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
