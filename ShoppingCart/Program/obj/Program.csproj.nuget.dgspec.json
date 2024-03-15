@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.csproj": {}
+    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.csproj": {
+    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj": {
-                "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj"
+              "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj": {
+                "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj": {
+    "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "projectName": "ShoppingCartApp",
-        "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\ShoppingCartApp.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\ShoppingCartApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

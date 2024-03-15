@@ -2,3 +2,15 @@ C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
 C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.sourcelink.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\refint\ShoppingCartApp.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\obj\Debug\net8.0\ref\ShoppingCartApp.dll

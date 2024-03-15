@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2FABD3DC-882F-4A72-8AA5-A4629DA48556}|Program\\Program.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\documents\\modules\\prog6221\\shoppingcart\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FABD3DC-882F-4A72-8AA5-A4629DA48556}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E47A950-5910-47F1-84F5-448256BCE74A}|ShoppingCartApp\\ShoppingCartApp.csproj|C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E47A950-5910-47F1-84F5-448256BCE74A}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\PROG6221_ICE_1\\ShoppingCart\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "ShoppingCartApp\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\ShoppingCartApp\\ShoppingCart.cs",
-              "RelativeToolTip": "ShoppingCartApp\\ShoppingCart.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:20:35.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.cs",
-              "RelativeDocumentMoniker": "Program\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\Modules\\PROG6221\\ShoppingCart\\Program\\Program.cs",
-              "RelativeToolTip": "Program\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswBEAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:17:20.644Z",
-              "EditorCaption": ""
             }
           ]
         }
