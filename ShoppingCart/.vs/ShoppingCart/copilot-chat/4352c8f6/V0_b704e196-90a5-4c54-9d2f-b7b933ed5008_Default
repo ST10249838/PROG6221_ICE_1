@@ -1,0 +1,115 @@
+…¨DateTime×ÿt‹] fÖlªThreadNameÀ°CopilotSessionId‚¤GuidÙ$b704e196-90a5-4c54-9d2f-b7b933ed5008¨ClientId¢IdÙ4Microsoft.VisualStudio.Conversations.Chat.HelpWindow§Request§Request•Ù$96c86097-43c2-4767-8399-d972e35dab69Ù$3f6158ed-e1c7-42a9-b86c-7bf3f95608feœ†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference¾#file:'ShoppingCartApp.csproj'¥ValueÈ_dÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙı<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+¯OriginalContentÀªSelections¨FilePathÙ’C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\ShoppingCartApp.csproj¨LanguageÀ†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference²#file:'Program.cs'¥ValueÈ¸dÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÚgusing ShoppingCartApp;
+
+namespace Program
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create Shopping Cart
+            ShoppingCart shoppingCart = new ShoppingCart(5);
+            
+            // Create products to add to shopping cart
+            ClothingProduct shirt = new ClothingProduct("Shirt", 10, ProductCategory.Clothing, "M", "Blue");
+            ElectronicsProduct phone = new ElectronicsProduct("Phone", 1000, ProductCategory.Electronics, "Samsung", "Galaxy S21");
+            HomeProduct chair = new HomeProduct("Chair", 50, ProductCategory.Home, "21m", "Brown");
+            BeautyProduct lipstick = new BeautyProduct("Lipstick", 5, ProductCategory.Beauty, "Matte", "Red");
+            GroceriesProduct milk = new GroceriesProduct("Milk", 2, ProductCategory.Groceries, 24);
+        }
+    }
+}¯OriginalContentÀªSelections¨FilePathÙ~C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\Program\Program.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈùdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙ©
+static void Main(string[] args)
+        {
+            // Create Shopping Cart
+            ShoppingCart shoppingCart = new ShoppingCart(5);
+            
+
+        }¯OriginalContentÀªSelections¨FilePathÙ~C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\Program\Program.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈfdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§Content·
+using ShoppingCartApp;¯OriginalContentÀªSelections¨FilePathÙ~C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\Program\Program.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈÈdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÚf// Creates a new instance of the groceries class with the specified name, price, category, quantity, and shoppingBags.
+public GroceriesProduct(string name, double price, ProductCategory category, int quantity) : base(name, price, category)
+        {
+            this.quantity = quantity;
+            this.shoppingBags = CalculateShoppingBags();
+        }¯OriginalContentÀªSelections¨FilePathÙC:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\GroceriesProduct.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈüdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÚš// Gets the information about the groceries product.
+public override void GetInfo()
+        {
+            Console.WriteLine("Name: " + base.Name);
+            Console.WriteLine("Price: " + base.Price);
+            Console.WriteLine("Category: " + base.Category);
+            Console.WriteLine("Quantity: " + this.quantity);
+            Console.WriteLine("Shopping Bags: " + this.shoppingBags);
+        }¯OriginalContentÀªSelections¨FilePathÙC:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\GroceriesProduct.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈædÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙ…// Methods
+public int CalculateShoppingBags()
+        {
+            return (int)Math.Ceiling((double)this.quantity / 5);
+        }¯OriginalContentÀªSelections¨FilePathÙC:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\GroceriesProduct.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈïdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙ’// Constructors
+public ShoppingCart(int capacity)
+        {
+            products = new Product[capacity];
+            itemCount = 0;
+        }¯OriginalContentÀªSelections¨FilePathÙ‹C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\ShoppingCart.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈÁdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙd// Gets the number of items in the shopping cart.
+public int ItemCount { get { return itemCount; } }¯OriginalContentÀªSelections¨FilePathÙ‹C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\ShoppingCart.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈÌdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙk// Gets the shoppingBags of the groceries product.
+public int ShoppingBags { get { return shoppingBags; } }¯OriginalContentÀªSelections¨FilePathÙC:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\GroceriesProduct.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈ’dÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÙ1
+private int quantity;
+private int shoppingBags;¯OriginalContentÀªSelections¨FilePathÙC:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\GroceriesProduct.cs¨Language¢C#†¯ProviderMoniker‚¤NameÙ6Microsoft.VisualStudio.Copilot.DocumentContextProvider§Version£0.1¦Member¤file©CanReduceÃ©RequestIdÙ$96c86097-43c2-4767-8399-d972e35dab69©Reference©#solution¥ValueÈàdÙ‘Microsoft.VisualStudio.Copilot.DocumentContext, Microsoft.VisualStudio.Copilot, Version=0.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a…§ContentÚ‚// Removes a product from the shopping cart.
+public void RemoveProduct(Product product)
+        {
+            int index = Array.IndexOf(products, product);
+            for (int i = index + 1; i < products.Length; i++)
+            {
+                products[i - 1] = products[i];
+            }
+            products[products.Length - 1] = null;
+            itemCount--;
+        }¯OriginalContentÀªSelections¨FilePathÙ‹C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\Modules\PROG6221\PROG6221_ICE_1\ShoppingCart\ShoppingCartApp\ShoppingCart.cs¨Language¢C#‘’“¥Value Ùy#solution create a suitable demo app in #file:'Program.cs'  to test the functionality of  #file:'ShoppingCartApp.csproj' À¨Response…§ContentÚîSure, here's a simple demo application that creates a shopping cart, adds products to it, and then removes a product:
+
+```C#
+using ShoppingCartApp;
+
+namespace Program
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create Shopping Cart
+            ShoppingCart shoppingCart = new ShoppingCart(5);
+            
+            // Create products to add to shopping cart
+            ClothingProduct shirt = new ClothingProduct("Shirt", 10, ProductCategory.Clothing, "M", "Blue");
+            ElectronicsProduct phone = new ElectronicsProduct("Phone", 1000, ProductCategory.Electronics, "Samsung", "Galaxy S21");
+            HomeProduct chair = new HomeProduct("Chair", 50, ProductCategory.Home, "21m", "Brown");
+            BeautyProduct lipstick = new BeautyProduct("Lipstick", 5, ProductCategory.Beauty, "Matte", "Red");
+            GroceriesProduct milk = new GroceriesProduct("Milk", 2, ProductCategory.Groceries, 24);
+
+            // Add products to shopping cart
+            shoppingCart.AddProduct(shirt);
+            shoppingCart.AddProduct(phone);
+            shoppingCart.AddProduct(chair);
+            shoppingCart.AddProduct(lipstick);
+            shoppingCart.AddProduct(milk);
+
+            // Display the number of items in the shopping cart
+            Console.WriteLine("Number of items in the shopping cart: " + shoppingCart.ItemCount);
+
+            // Remove a product from the shopping cart
+            shoppingCart.RemoveProduct(phone);
+
+            // Display the number of items in the shopping cart after removing a product
+            Console.WriteLine("Number of items in the shopping cart after removing a product: " + shoppingCart.ItemCount);
+        }
+    }
+}
+```
+
+Please note that this code assumes that the `AddProduct` method exists in the `ShoppingCart` class. If it doesn't, you'll need to implement it. Also, this code uses `Console.WriteLine` to display the number of items in the shopping cart, so you'll need to add `using System;` at the top of your file.¤Type ¦Status¯FollowUpPrompts’ÙCHow can I display the details of each product in the shopping cart?ÙiCan I modify the ShoppingCart class to limit the number of a specific product category that can be added?³CodeVulnerabilities
